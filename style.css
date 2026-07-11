@@ -778,6 +778,20 @@ a{
         max-width: 100%;
     }
 
+    .editor-body{
+    padding: 20px;
+    font-size: 13px;
+    }
+
+    .line-number{
+    width: 28px;
+    margin-right: 12px;
+    }
+
+    .editor-header p{
+    font-size: 0.9rem;
+    }
+
     /* About */
 
     #about{
